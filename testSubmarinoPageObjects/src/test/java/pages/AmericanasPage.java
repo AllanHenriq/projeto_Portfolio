@@ -8,9 +8,6 @@ import org.openqa.selenium.WebElement;
 public class AmericanasPage {
     private WebDriver navegador;
 
-    public AmericanasPage(WebDriver navegador){
-        this.navegador = navegador;
-    }
 
     public AmericanasPage typeCodeBook(){
         navegador.findElement(By.cssSelector("#h_search-input")).sendKeys("132730056");
@@ -30,12 +27,12 @@ public class AmericanasPage {
         return this;
     }
 
-    public AmericanasPage getNomeAutorBookAmericanas(){
+    public String getNomeAutorBookAmericanas(){
         WebElement primeiroNomeAutorAmericanas = navegador.findElement(By.cssSelector("#info-section > div:nth-child(2) > section > div > div.col__ColUI-sc-1ey7nd2-0.cZgwvo.view__ViewUI-oocyw8-6.kvpAuX > table > tbody > tr:nth-child(13) > td:nth-child(2) > span"));
         String nomeAutorAmericanas = primeiroNomeAutorAmericanas.getText();
         System.out.println(nomeAutorAmericanas);
 
-        return this;
+        return nomeAutorAmericanas;
     }
 
    }

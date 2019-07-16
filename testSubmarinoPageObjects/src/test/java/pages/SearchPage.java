@@ -6,9 +6,6 @@ import org.openqa.selenium.WebDriver;
 public class SearchPage {
     private WebDriver navegador;
 
-    public SearchPage(WebDriver navegador) {
-        this.navegador = navegador;
-    }
     public SearchPage typeBook(){
         navegador.findElement(By.cssSelector("#h_search-input")).sendKeys("livro");
 

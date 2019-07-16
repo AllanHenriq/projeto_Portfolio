@@ -1,0 +1,2309 @@
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/compiler.xml	(date 1563219634000)
++++ .idea/compiler.xml	(date 1563219634000)
+@@ -0,0 +1,16 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="CompilerConfiguration">
++    <annotationProcessing>
++      <profile name="Maven default annotation processors profile" enabled="true">
++        <sourceOutputDir name="target/generated-sources/annotations" />
++        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
++        <outputRelativeToContentRoot value="true" />
++        <module name="webdriverJava" />
++      </profile>
++    </annotationProcessing>
++    <bytecodeTargetLevel>
++      <module name="webdriverJava" target="1.5" />
++    </bytecodeTargetLevel>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__asm_asm_3_3_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__asm_asm_3_3_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__asm_asm_3_3_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: asm:asm:3.3.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/3.3.1/asm-3.3.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/3.3.1/asm-3.3.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/asm/asm/3.3.1/asm-3.3.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml	(date 1563219634000)
++++ .idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: bouncycastle:bcmail-jdk14:138">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml	(date 1563219634000)
++++ .idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: bouncycastle:bcprov-jdk14:138">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__cglib_cglib_2_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__cglib_cglib_2_2_2.xml	(date 1563219634000)
++++ .idea/libraries/Maven__cglib_cglib_2_2_2.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: cglib:cglib:2.2.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.2.2/cglib-2.2.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.2.2/cglib-2.2.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/2.2.2/cglib-2.2.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml	(date 1563219634000)
++++ .idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: cglib:cglib-nodep:2.1_3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.code.gson:gson:2.3.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.3.1/gson-2.3.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_google_guava_guava_19_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_google_guava_guava_19_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__com_google_guava_guava_19_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.google.guava:guava:19.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_lowagie_itext_2_1_7.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_lowagie_itext_2_1_7.xml	(date 1563219634000)
++++ .idea/libraries/Maven__com_lowagie_itext_2_1_7.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.lowagie:itext:2.1.7">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml	(date 1563219634000)
++++ .idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.sun.xml.bind:jaxb-impl:2.2.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-impl/2.2.6/jaxb-impl-2.2.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2_6.xml	(date 1563219634000)
++++ .idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2_6.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: com.sun.xml.bind:jaxb-xjc:2.2.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-xjc/2.2.6/jaxb-xjc-2.2.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-xjc/2.2.6/jaxb-xjc-2.2.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/bind/jaxb-xjc/2.2.6/jaxb-xjc-2.2.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-beanutils:commons-beanutils:1.8.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_codec_commons_codec_1_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_codec_commons_codec_1_5.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_codec_commons_codec_1_5.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-codec:commons-codec:1.5">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.5/commons-codec-1.5.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.5/commons-codec-1.5-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.5/commons-codec-1.5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_collections_commons_collections_2_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_collections_commons_collections_2_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_collections_commons_collections_2_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-collections:commons-collections:2.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/2.1/commons-collections-2.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/2.1/commons-collections-2.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-collections/commons-collections/2.1/commons-collections-2.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_digester_commons_digester_2_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_digester_commons_digester_2_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_digester_commons_digester_2_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-digester:commons-digester:2.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-digester/commons-digester/2.1/commons-digester-2.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-digester/commons-digester/2.1/commons-digester-2.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-digester/commons-digester/2.1/commons-digester-2.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_io_commons_io_2_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_io_commons_io_2_2.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_io_commons_io_2_2.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-io:commons-io:2.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.2/commons-io-2.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.2/commons-io-2.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.2/commons-io-2.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_lang_commons_lang_2_6.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_lang_commons_lang_2_6.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_lang_commons_lang_2_6.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-lang:commons-lang:2.6">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_logging_commons_logging_1_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__commons_logging_commons_logging_1_2.xml	(date 1563219634000)
++++ .idea/libraries/Maven__commons_logging_commons_logging_1_2.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: commons-logging:commons-logging:1.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__dom4j_dom4j_1_6_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__dom4j_dom4j_1_6_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__dom4j_dom4j_1_6_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: dom4j:dom4j:1.6.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__eclipse_jdtcore_3_1_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__eclipse_jdtcore_3_1_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__eclipse_jdtcore_3_1_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: eclipse:jdtcore:3.1.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/eclipse/jdtcore/3.1.0/jdtcore-3.1.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/eclipse/jdtcore/3.1.0/jdtcore-3.1.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/eclipse/jdtcore/3.1.0/jdtcore-3.1.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml	(date 1563219634000)
++++ .idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: io.netty:netty:3.5.7.Final">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.5.7.Final/netty-3.5.7.Final.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.5.7.Final/netty-3.5.7.Final-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.5.7.Final/netty-3.5.7.Final-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__javaee_javaee_api_5.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__javaee_javaee_api_5.xml	(date 1563219634000)
++++ .idea/libraries/Maven__javaee_javaee_api_5.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javaee:javaee-api:5">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/javaee/javaee-api/5/javaee-api-5.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/javaee/javaee-api/5/javaee-api-5-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/javaee/javaee-api/5/javaee-api-5-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__javax_inject_javax_inject_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__javax_inject_javax_inject_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__javax_inject_javax_inject_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javax.inject:javax.inject:1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/inject/javax.inject/1/javax.inject-1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__javax_xml_jsr173_1_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__javax_xml_jsr173_1_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__javax_xml_jsr173_1_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: javax.xml:jsr173:1.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/jsr173/1.0/jsr173-1.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/jsr173/1.0/jsr173-1.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/javax/xml/jsr173/1.0/jsr173-1.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__jfree_jcommon_1_0_16.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__jfree_jcommon_1_0_16.xml	(date 1563219634000)
++++ .idea/libraries/Maven__jfree_jcommon_1_0_16.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: jfree:jcommon:1.0.16">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/jfree/jcommon/1.0.16/jcommon-1.0.16.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/jfree/jcommon/1.0.16/jcommon-1.0.16-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/jfree/jcommon/1.0.16/jcommon-1.0.16-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__jfree_jfreechart_1_0_13.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__jfree_jfreechart_1_0_13.xml	(date 1563219634000)
++++ .idea/libraries/Maven__jfree_jfreechart_1_0_13.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: jfree:jfreechart:1.0.13">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/jfree/jfreechart/1.0.13/jfreechart-1.0.13.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/jfree/jfreechart/1.0.13/jfreechart-1.0.13-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__junit_junit_4_12.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__junit_junit_4_12.xml	(date 1563219634000)
++++ .idea/libraries/Maven__junit_junit_4_12.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: junit:junit:4.12">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__log4j_log4j_1_2_15.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__log4j_log4j_1_2_15.xml	(date 1563219634000)
++++ .idea/libraries/Maven__log4j_log4j_1_2_15.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: log4j:log4j:1.2.15">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.15/log4j-1.2.15.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.15/log4j-1.2.15-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.15/log4j-1.2.15-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.java.dev.jna:jna:4.1.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.java.dev.jna:jna-platform:4.1.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_sf_jasperreports_jasperreports_4_5_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__net_sf_jasperreports_jasperreports_4_5_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__net_sf_jasperreports_jasperreports_4_5_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.sf.jasperreports:jasperreports:4.5.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports/4.5.1/jasperreports-4.5.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports/4.5.1/jasperreports-4.5.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports/4.5.1/jasperreports-4.5.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_sf_jasperreports_jasperreports_fonts_4_0_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__net_sf_jasperreports_jasperreports_fonts_4_0_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__net_sf_jasperreports_jasperreports_fonts_4_0_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.sf.jasperreports:jasperreports-fonts:4.0.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports-fonts/4.0.0/jasperreports-fonts-4.0.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports-fonts/4.0.0/jasperreports-fonts-4.0.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sf/jasperreports/jasperreports-fonts/4.0.0/jasperreports-fonts-4.0.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__net_sourceforge_javacsv_javacsv_2_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__net_sourceforge_javacsv_javacsv_2_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__net_sourceforge_javacsv_javacsv_2_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: net.sourceforge.javacsv:javacsv:2.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/javacsv/javacsv/2.0/javacsv-2.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/javacsv/javacsv/2.0/javacsv-2.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/javacsv/javacsv/2.0/javacsv-2.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.commons:commons-exec:1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-exec/1.3/commons-exec-1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents:httpclient:4.5.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.httpcomponents:httpcore:4.4.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.3/httpcore-4.4.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_poi_poi_3_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_poi_poi_3_8.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_poi_poi_3_8.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.poi:poi:3.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.8/poi-3.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.8/poi-3.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.8/poi-3.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_poi_poi_examples_3_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_poi_poi_examples_3_8.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_poi_poi_examples_3_8.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.poi:poi-examples:3.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-examples/3.8/poi-examples-3.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-examples/3.8/poi-examples-3.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-examples/3.8/poi-examples-3.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_poi_poi_ooxml_3_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_poi_poi_ooxml_3_8.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_poi_poi_ooxml_3_8.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.poi:poi-ooxml:3.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_8.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_8.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.poi:poi-ooxml-schemas:3.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_8.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_8.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_8.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.poi:poi-scratchpad:3.8">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.bouncycastle:bcmail-jdk14:1.38">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.bouncycastle:bcprov-jdk14:1.38">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.bouncycastle:bctsp-jdk14:1.38">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_codehaus_castor_castor_1_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_codehaus_castor_castor_1_2.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_codehaus_castor_castor_1_2.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.codehaus.castor:castor:1.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/castor/castor/1.2/castor-1.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/castor/castor/1.2/castor-1.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/castor/castor/1.2/castor-1.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_11.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_11.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_11.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.codehaus.jackson:jackson-core-lgpl:1.9.11">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-lgpl/1.9.11/jackson-core-lgpl-1.9.11.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-lgpl/1.9.11/jackson-core-lgpl-1.9.11-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-lgpl/1.9.11/jackson-core-lgpl-1.9.11-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_11.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_11.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_11.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.codehaus.jackson:jackson-mapper-lgpl:1.9.11">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-lgpl/1.9.11/jackson-mapper-lgpl-1.9.11.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-lgpl/1.9.11/jackson-mapper-lgpl-1.9.11-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-lgpl/1.9.11/jackson-mapper-lgpl-1.9.11-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_easetech_easytest_core_1_4_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_easetech_easytest_core_1_4_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_easetech_easytest_core_1_4_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.easetech:easytest-core:1.4.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/easetech/easytest-core/1.4.0/easytest-core-1.4.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/easetech/easytest-core/1.4.0/easytest-core-1.4.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/easetech/easytest-core/1.4.0/easytest-core-1.4.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_jvnet_jaxb2_commons_jaxb2_basics_runtime_0_6_2.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_jvnet_jaxb2_commons_jaxb2_basics_runtime_0_6_2.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_jvnet_jaxb2_commons_jaxb2_basics_runtime_0_6_2.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.6.2">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.6.2/jaxb2-basics-runtime-0.6.2.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.6.2/jaxb2-basics-runtime-0.6.2-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/jaxb2_commons/jaxb2-basics-runtime/0.6.2/jaxb2-basics-runtime-0.6.2-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-api:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/2.53.0/selenium-chrome-driver-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/2.53.0/selenium-chrome-driver-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/2.53.0/selenium-chrome-driver-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/2.53.0/selenium-edge-driver-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/2.53.0/selenium-edge-driver-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-edge-driver/2.53.0/selenium-edge-driver-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.0/selenium-firefox-driver-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.0/selenium-firefox-driver-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.53.0/selenium-firefox-driver-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/2.53.0/selenium-ie-driver-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/2.53.0/selenium-ie-driver-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-ie-driver/2.53.0/selenium-ie-driver-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-java:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/2.53.0/selenium-java-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/2.53.0/selenium-java-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/2.53.0/selenium-java-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-leg-rc/2.53.0/selenium-leg-rc-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-leg-rc/2.53.0/selenium-leg-rc-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-leg-rc/2.53.0/selenium-leg-rc-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/2.53.0/selenium-safari-driver-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/2.53.0/selenium-safari-driver-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-safari-driver/2.53.0/selenium-safari-driver-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.seleniumhq.selenium:selenium-support:2.53.0">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/2.53.0/selenium-support-2.53.0-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:jcl-over-slf4j:1.6.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:slf4j-api:1.6.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: org.slf4j:slf4j-log4j12:1.6.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.6.1/slf4j-log4j12-1.6.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__stax_stax_api_1_0_1.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__stax_stax_api_1_0_1.xml	(date 1563219634000)
++++ .idea/libraries/Maven__stax_stax_api_1_0_1.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: stax:stax-api:1.0.1">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__xml_apis_xml_apis_1_3_02.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/libraries/Maven__xml_apis_xml_apis_1_3_02.xml	(date 1563219634000)
++++ .idea/libraries/Maven__xml_apis_xml_apis_1_3_02.xml	(date 1563219634000)
+@@ -0,0 +1,13 @@
++<component name="libraryTable">
++  <library name="Maven: xml-apis:xml-apis:1.3.02">
++    <CLASSES>
++      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.3.02/xml-apis-1.3.02.jar!/" />
++    </CLASSES>
++    <JAVADOC>
++      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.3.02/xml-apis-1.3.02-javadoc.jar!/" />
++    </JAVADOC>
++    <SOURCES>
++      <root url="jar://$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.3.02/xml-apis-1.3.02-sources.jar!/" />
++    </SOURCES>
++  </library>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(date 1563219634000)
++++ .idea/misc.xml	(date 1563219634000)
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/modules.xml	(date 1563219634000)
++++ .idea/modules.xml	(date 1563219634000)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/projeto_Portfolio.iml" filepath="$PROJECT_DIR$/.idea/projeto_Portfolio.iml" />
++      <module fileurl="file://$PROJECT_DIR$/testSubmarinoPageObjects/webdriverJava.iml" filepath="$PROJECT_DIR$/testSubmarinoPageObjects/webdriverJava.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/projeto_Portfolio.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/projeto_Portfolio.iml	(date 1563219634000)
++++ .idea/projeto_Portfolio.iml	(date 1563219634000)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1563219634000)
++++ .idea/vcs.xml	(date 1563219634000)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1563219634000)
++++ .idea/workspace.xml	(date 1563219634000)
+@@ -0,0 +1,378 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ChangeListManager">
++    <list default="true" id="08fc6fe7-f9b5-43d5-9ccb-502fc5be03a6" name="Default Changelist" comment="">
++      <change beforePath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SearchPage.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java" afterDir="false" />
++    </list>
++    <ignored path="$PROJECT_DIR$/testSubmarinoPageObjects/target/" />
++    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="DefaultGradleProjectSettings">
++    <option name="testRunner" value="GRADLE" />
++    <option name="delegatedBuild" value="true" />
++  </component>
++  <component name="FileEditorManager">
++    <leaf>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="230">
++              <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
++              <folding>
++                <element signature="imports" expanded="true" />
++              </folding>
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="122">
++              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="162">
++              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="122">
++              <caret line="15" column="30" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="30" />
++              <folding>
++                <element signature="e#1200#1201#0" expanded="true" />
++                <element signature="e#1263#1264#0" expanded="true" />
++              </folding>
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SearchPage.java">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="100">
++              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
++              <folding>
++                <element signature="imports" expanded="true" />
++              </folding>
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/pom.xml">
++          <provider selected="true" editor-type-id="text-editor" />
++        </entry>
++      </file>
++    </leaf>
++  </component>
++  <component name="FindInProjectRecents">
++    <findStrings>
++      <find>selectfirstBook()</find>
++      <find>firstBook()</find>
++      <find>selectfirstBook</find>
++      <find>openAmericanasPage</find>
++    </findStrings>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="IdeDocumentHistory">
++    <option name="CHANGED_PATHS">
++      <list>
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SearchPage.java" />
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java" />
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java" />
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java" />
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectConfigurationFiles">
++    <option name="files">
++      <list>
++        <option value="$PROJECT_DIR$/.idea/projeto_Portfolio.iml" />
++        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
++        <option value="$PROJECT_DIR$/.idea/modules.xml" />
++        <option value="$PROJECT_DIR$/.idea/misc.xml" />
++        <option value="$PROJECT_DIR$/testSubmarinoPageObjects/webdriverJava.iml" />
++        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_7.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_6.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_xjc_2_2_6.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_5.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_2_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__eclipse_jdtcore_3_1_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javaee_javaee_api_5.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_jsr173_1_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jcommon_1_0_16.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__jfree_jfreechart_1_0_13.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_15.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jasperreports_jasperreports_4_5_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jasperreports_jasperreports_fonts_4_0_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_javacsv_javacsv_2_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_8.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_examples_3_8.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_8.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_8.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_8.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_castor_castor_1_2.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_lgpl_1_9_11.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_lgpl_1_9_11.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_easetech_easytest_core_1_4_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_jaxb2_commons_jaxb2_basics_runtime_0_6_2.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_0.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
++        <option value="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_3_02.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectFrameBounds" extendedState="6">
++    <option name="x" value="-8" />
++    <option name="y" value="-8" />
++    <option name="width" value="1382" />
++    <option name="height" value="784" />
++  </component>
++  <component name="ProjectView">
++    <navigator proportions="" version="1">
++      <foldersAlwaysOnTop value="true" />
++    </navigator>
++    <panes>
++      <pane id="ProjectPane">
++        <subPane>
++          <expand>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="pages" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="Suporte" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="projeto_Portfolio" type="b2602c69:ProjectViewProjectNode" />
++              <item name="projeto_Portfolio" type="462c0819:PsiDirectoryNode" />
++              <item name="testSubmarinoPageObjects" type="462c0819:PsiDirectoryNode" />
++              <item name="src" type="462c0819:PsiDirectoryNode" />
++              <item name="test" type="462c0819:PsiDirectoryNode" />
++              <item name="java" type="462c0819:PsiDirectoryNode" />
++              <item name="Tests" type="462c0819:PsiDirectoryNode" />
++            </path>
++          </expand>
++          <select />
++        </subPane>
++      </pane>
++      <pane id="PackagesPane" />
++      <pane id="Scope" />
++    </panes>
++  </component>
++  <component name="PropertiesComponent">
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="settings.editor.selected.configurable" value="settings.github" />
++  </component>
++  <component name="RunDashboard">
++    <option name="ruleStates">
++      <list>
++        <RuleState>
++          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
++        </RuleState>
++        <RuleState>
++          <option name="name" value="StatusDashboardGroupingRule" />
++        </RuleState>
++      </list>
++    </option>
++  </component>
++  <component name="SvnConfiguration">
++    <configuration />
++  </component>
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="08fc6fe7-f9b5-43d5-9ccb-502fc5be03a6" name="Default Changelist" comment="" />
++      <created>1563215867221</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1563215867221</updated>
++    </task>
++    <servers />
++  </component>
++  <component name="ToolWindowManager">
++    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
++    <editor active="true" />
++    <layout>
++      <window_info id="Image Layers" />
++      <window_info id="Designer" />
++      <window_info id="UI Designer" />
++      <window_info id="Capture Tool" />
++      <window_info id="Favorites" side_tool="true" />
++      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
++      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
++      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32850242" />
++      <window_info anchor="bottom" id="Terminal" />
++      <window_info anchor="bottom" id="Event Log" side_tool="true" />
++      <window_info anchor="bottom" id="Messages" />
++      <window_info anchor="bottom" id="Message" order="0" />
++      <window_info anchor="bottom" id="Find" order="1" />
++      <window_info anchor="bottom" id="Run" order="2" />
++      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
++      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
++      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
++      <window_info anchor="bottom" id="TODO" order="6" />
++      <window_info anchor="right" id="Palette" />
++      <window_info anchor="right" id="Theme Preview" />
++      <window_info anchor="right" id="Maven" />
++      <window_info anchor="right" id="Capture Analysis" />
++      <window_info anchor="right" id="Palette&#9;" />
++      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
++      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
++      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++    </layout>
++  </component>
++  <component name="editorHistoryManager">
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/testSubmarinoPageObjects.iml">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/pom.xml">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SearchPage.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="100">
++          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
++          <folding>
++            <element signature="imports" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="122">
++          <caret line="15" column="30" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="30" />
++          <folding>
++            <element signature="e#1200#1201#0" expanded="true" />
++            <element signature="e#1263#1264#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="162">
++          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="230">
++          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
++          <folding>
++            <element signature="imports" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="122">
++          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
++        </state>
++      </provider>
++    </entry>
++  </component>
++</project>
+\ No newline at end of file
+Index: .vs/VSWorkspaceState.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .vs/VSWorkspaceState.json	(date 1563219634000)
++++ .vs/VSWorkspaceState.json	(date 1563219634000)
+@@ -0,0 +1,7 @@
++{
++  "ExpandedNodes": [
++    "",
++    "\\testSubmarinoPageObjects"
++  ],
++  "PreviewInSolutionExplorer": false
++}
+\ No newline at end of file
+Index: testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java
+===================================================================
+--- testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java	(date 1562785963000)
++++ testSubmarinoPageObjects/src/test/java/Tests/ComparaLivrosTest.java	(date 1563219634000)
+@@ -8,12 +8,16 @@
+ import org.openqa.selenium.WebDriver;
+ import pages.AmericanasPage;
+ import pages.SearchPage;
++import pages.SubBookSelectedPage;
++import pages.SubBooksPage;
+ 
+ 
+ public class ComparaLivrosTest {
+     private WebDriver navegador;
+-
+-
++    private SearchPage search;
++    private SubBookSelectedPage subSelPage;
++    private SubBooksPage subBooksPage;
++    private AmericanasPage americanasPage;
+     @Before
+     public void setUp(){
+     //call to method "open browser"
+@@ -22,20 +26,23 @@
+ 
+     @Test
+     public void testSearchBookAmericanas(){
+-        new SearchPage(navegador)
+-          //AmericanasPage nomeAutorAmericanas = new SearchPage(navegador)
+-                .typeBook()
+-                .clickSearchPage()
+-                .selectfirstBook()
+-                .getCodeBook()
+-                .getNameAutor()
+-                .openAmericanasPage()
+-                .typeCodeBook()
+-                .clickSearchPage()
+-                .clickOnBookAmericanas()
+-                .getNomeAutorBookAmericanas();
++        search = new SearchPage();
++        subSelPage = new SubBookSelectedPage();
++        americanasPage = new AmericanasPage();
++
+ 
+-        Assert.assertEquals("Mark Manson", nomeAutorAmericanas);
++        search.typeBook();
++        search.clickSearchPage();
++        subBooksPage.selectfirstBook();
++        subSelPage.getCodeBook();
++        String respotaSub = subSelPage.getNameAutor();
++        navegador.get("https://www.americanas.com.br/");
++        americanasPage.typeCodeBook();
++        americanasPage.clickSearchPage();
++        americanasPage.clickOnBookAmericanas();
++        americanasPage.getNomeAutorBookAmericanas();
++
++        Assert.assertEquals(respotaSub, "bla bla bla");
+ 
+     }
+ 
+Index: testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java
+===================================================================
+--- testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java	(date 1562785963000)
++++ testSubmarinoPageObjects/src/test/java/pages/AmericanasPage.java	(date 1563219634000)
+@@ -8,9 +8,6 @@
+ public class AmericanasPage {
+     private WebDriver navegador;
+ 
+-    public AmericanasPage(WebDriver navegador){
+-        this.navegador = navegador;
+-    }
+ 
+     public AmericanasPage typeCodeBook(){
+         navegador.findElement(By.cssSelector("#h_search-input")).sendKeys("132730056");
+@@ -30,12 +27,12 @@
+         return this;
+     }
+ 
+-    public AmericanasPage getNomeAutorBookAmericanas(){
++    public String getNomeAutorBookAmericanas(){
+         WebElement primeiroNomeAutorAmericanas = navegador.findElement(By.cssSelector("#info-section > div:nth-child(2) > section > div > div.col__ColUI-sc-1ey7nd2-0.cZgwvo.view__ViewUI-oocyw8-6.kvpAuX > table > tbody > tr:nth-child(13) > td:nth-child(2) > span"));
+         String nomeAutorAmericanas = primeiroNomeAutorAmericanas.getText();
+         System.out.println(nomeAutorAmericanas);
+ 
+-        return this;
++        return nomeAutorAmericanas;
+     }
+ 
+    }
+Index: testSubmarinoPageObjects/src/test/java/pages/SearchPage.java
+===================================================================
+--- testSubmarinoPageObjects/src/test/java/pages/SearchPage.java	(date 1562785963000)
++++ testSubmarinoPageObjects/src/test/java/pages/SearchPage.java	(date 1563219634000)
+@@ -6,9 +6,6 @@
+ public class SearchPage {
+     private WebDriver navegador;
+ 
+-    public SearchPage(WebDriver navegador) {
+-        this.navegador = navegador;
+-    }
+     public SearchPage typeBook(){
+         navegador.findElement(By.cssSelector("#h_search-input")).sendKeys("livro");
+ 
+Index: testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java
+===================================================================
+--- testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java	(date 1562785963000)
++++ testSubmarinoPageObjects/src/test/java/pages/SubBookSelectedPage.java	(date 1563219634000)
+@@ -7,26 +7,21 @@
+ public class SubBookSelectedPage {
+     private WebDriver navegador;
+ 
+-    public SubBookSelectedPage(WebDriver navegador){
+-        this.navegador = navegador;
+-    }
+     public SubBookSelectedPage getCodeBook(){
+         WebElement codigo = navegador.findElement(By.cssSelector("#content > div > div > section > div > div.GridUI-sc-1f6kp3y-0.dKDpMf.ViewUI-oocyw8-6.kvewNe > div.ColUI-sc-1ey7nd2-0.bwIMKy.ViewUI-oocyw8-6.kvewNe > section > div.GridUI-sc-1f6kp3y-0.jjTgLm.ViewUI-oocyw8-6.kvewNe > div > div > span"));
+         String textoCodigo = codigo.getText();
+ 
+         return this;
+     }
+-    public SubBookSelectedPage getNameAutor(){
++    public String getNameAutor(){
+         WebElement primeiroNomeAutor = navegador.findElement(By.cssSelector("#content > div > div > section > div > div.GridUI-sc-1f6kp3y-0.dKDpMf.ViewUI-oocyw8-6.kvewNe > div.ColUI-sc-1ey7nd2-0.bwIMKy.ViewUI-oocyw8-6.kvewNe > section > div.book-details__BookDetailsContainer-qiq6yd-0.bDcfpu.ViewUI-oocyw8-6.kvewNe > div:nth-child(1) > div > div > a > span"));
+         String nomeAutor = primeiroNomeAutor.getText();
+         System.out.println(nomeAutor);
+ 
+-        return this;
++        return nomeAutor;
+     }
+ 
+-    public AmericanasPage openAmericanasPage(){
++    public void openAmericanasPage(){
+         navegador.get("https://www.americanas.com.br/");
+-
+-        return new AmericanasPage(navegador);
+     }
+ }
+Index: testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java
+===================================================================
+--- testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java	(date 1562785963000)
++++ testSubmarinoPageObjects/src/test/java/pages/SubBooksPage.java	(date 1563219634000)
+@@ -11,10 +11,10 @@
+         this.navegador = navegador;
+     }
+ 
+-    public SubBookSelectedPage selectfirstBook (){
++    public void selectfirstBook (){
+         navegador.findElement(By.cssSelector("#content-middle > div:nth-child(5) > div > div > div > div.row.product-grid.no-gutters.main-grid > div:nth-child(1) > div > div.RippleContainer-sc-1e1nj6p-0.fqCWyR > a > section > div.Info-sc-1m3ayw0-5.hqMWLy.ViewUI-oocyw8-6.kvewNe > div.TitleWrapper-c6mv26-7.cXTBDO.ViewUI-oocyw8-6.kvewNe > h3")).click();
+ 
+-        return new SubBookSelectedPage(navegador);
++//        return new SubBookSelectedPage(navegador);
+     }
+ 
+ }
+Index: testSubmarinoPageObjects/webdriverJava.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- testSubmarinoPageObjects/webdriverJava.iml	(date 1563219634000)
++++ testSubmarinoPageObjects/webdriverJava.iml	(date 1563219634000)
+@@ -0,0 +1,78 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
++    <output url="file://$MODULE_DIR$/target/classes" />
++    <output-test url="file://$MODULE_DIR$/target/test-classes" />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
++      <excludeFolder url="file://$MODULE_DIR$/target" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
++    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-remote-driver:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: cglib:cglib-nodep:2.1_3" level="project" />
++    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.3.1" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpclient:4.5.1" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.3" level="project" />
++    <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
++    <orderEntry type="library" name="Maven: com.google.guava:guava:19.0" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-edge-driver:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.commons:commons-exec:1.3" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-ie-driver:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: net.java.dev.jna:jna:4.1.0" level="project" />
++    <orderEntry type="library" name="Maven: net.java.dev.jna:jna-platform:4.1.0" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: io.netty:netty:3.5.7.Final" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.53.0" level="project" />
++    <orderEntry type="library" name="Maven: org.easetech:easytest-core:1.4.0" level="project" />
++    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.6.1" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Maven: log4j:log4j:1.2.15" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:slf4j-log4j12:1.6.1" level="project" />
++    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:jcl-over-slf4j:1.6.1" level="project" />
++    <orderEntry type="library" name="Maven: net.sourceforge.javacsv:javacsv:2.0" level="project" />
++    <orderEntry type="library" name="Maven: javax.xml:jsr173:1.0" level="project" />
++    <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-xjc:2.2.6" level="project" />
++    <orderEntry type="library" name="Maven: javaee:javaee-api:5" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.poi:poi:3.8" level="project" />
++    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.5" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.poi:poi-examples:3.8" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.poi:poi-scratchpad:3.8" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml:3.8" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.poi:poi-ooxml-schemas:3.8" level="project" />
++    <orderEntry type="library" name="Maven: org.apache.xmlbeans:xmlbeans:2.3.0" level="project" />
++    <orderEntry type="library" name="Maven: stax:stax-api:1.0.1" level="project" />
++    <orderEntry type="library" name="Maven: dom4j:dom4j:1.6.1" level="project" />
++    <orderEntry type="library" name="Maven: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.6.2" level="project" />
++    <orderEntry type="library" name="Maven: cglib:cglib:2.2.2" level="project" />
++    <orderEntry type="library" name="Maven: asm:asm:3.3.1" level="project" />
++    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
++    <orderEntry type="library" name="Maven: commons-io:commons-io:2.2" level="project" />
++    <orderEntry type="library" name="Maven: jfree:jfreechart:1.0.13" level="project" />
++    <orderEntry type="library" name="Maven: jfree:jcommon:1.0.16" level="project" />
++    <orderEntry type="library" name="Maven: net.sf.jasperreports:jasperreports-fonts:4.0.0" level="project" />
++    <orderEntry type="library" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.6" level="project" />
++    <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
++    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-mapper-lgpl:1.9.11" level="project" />
++    <orderEntry type="library" name="Maven: org.codehaus.jackson:jackson-core-lgpl:1.9.11" level="project" />
++    <orderEntry type="library" name="Maven: net.sf.jasperreports:jasperreports:4.5.1" level="project" />
++    <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.8.0" level="project" />
++    <orderEntry type="library" name="Maven: commons-collections:commons-collections:2.1" level="project" />
++    <orderEntry type="library" name="Maven: commons-digester:commons-digester:2.1" level="project" />
++    <orderEntry type="library" name="Maven: com.lowagie:itext:2.1.7" level="project" />
++    <orderEntry type="library" name="Maven: bouncycastle:bcmail-jdk14:138" level="project" />
++    <orderEntry type="library" name="Maven: bouncycastle:bcprov-jdk14:138" level="project" />
++    <orderEntry type="library" name="Maven: org.bouncycastle:bctsp-jdk14:1.38" level="project" />
++    <orderEntry type="library" name="Maven: org.bouncycastle:bcprov-jdk14:1.38" level="project" />
++    <orderEntry type="library" name="Maven: org.bouncycastle:bcmail-jdk14:1.38" level="project" />
++    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.3.02" level="project" />
++    <orderEntry type="library" name="Maven: eclipse:jdtcore:3.1.0" level="project" />
++    <orderEntry type="library" name="Maven: org.codehaus.castor:castor:1.2" level="project" />
++  </component>
++</module>
+\ No newline at end of file
+diff --git .vs/projeto_Portfolio/v16/.suo .vs/projeto_Portfolio/v16/.suo
+new file mode 100644
+index 0000000000000000000000000000000000000000..41c51ba95ef0958442ee6350dd0c5d33015eac75
+GIT binary patch
+literal 9728
+zc%1E7NpI6Y6n^PKH=vY4S;V122q6R!NC+V+5Ofm=DwY-~n<~?!A*~Zfu|w&FUjQ6|
+zD`!sp3vM7JPFz6ZH*h22doSa}aT9L|sD*sdB;)be-^|<Q&E(U^p>J>B@BdCNoTpAI
+zmilOmqb-KgVPEVZ>QZgRQmMpEohYR?HWhA?fsaL_G(}nb=4s7s3Z59D?uyR4efoa-
+z@#5Xs*q2y8Uns-64n~8P=`z@tP@AHsA^AIMY%a(%dq~W;hM#$Jq@$jvB+4vgp`j#w
+z-gSsNVqy8WqGVM48Wq5zQyTN<l5#Llq9q@IpZ$>iGARErRm4x*QGR*Y#}Muhq70zy
+zR2=N@EI<D3#c!Xgx3T%~H~s&@&zEigr;X+RPTg@FaQZg)8B%=))VSS#&i>y+?R9^%
+zqUb8!O2^L9?`Ydr=e}2IV`F1n;{OWbk%m~a5;*SJIDq)Wdw~8B@rUz>BdR_JHWR#8
+z5$jCw&eCIv!4@q_WHf!=#qp2#9epAAIi~fhI>&uWB7PPl(P<jv&~a^6R)!=-V$lTZ
+zS?QUr8P!?v@26_~3&LM?^qa(cd8Qfl<~y<qB+$Bw5g1@fqctt;^<;4Z{5+T85cA(b
+z)%9-{?2BryPr#E9S;Wz9Kn{fpcN`khL__1auc2iTn!=hMVg1`p<$RJcLpSLbvJW@k
+zs6!K8I2>X9AEEME#<&j)NQjKt>K=mEp66)g4!5zEw94qJI1_=t7_eVZgynZ)5)ys{
+zxu@`9&6n-ZRPspDMPx-eXvvWLq}=Mn=?MDgT%}9Zo%TK>cBQG2#9@_uFN>=LtbwgA
+zv(6rve;1W=x}f|VuWbF_Km;<x_SoY!Xn94AU{dt0(G}Di=fp=N=$~;w{f6;B1EWbu
+zBq~U(V4Md(=V^OG%%A0D$G`RZ*Ch5n_Vv6nMkCCBK#idu|F~G41})?;&$KJruE!DZ
+zb3C{Ara}05tw=QB=k;I_wVY?vt>SP5`|qX3^0(KctXM+AcRa9v$-j4pn17E4f7|~z
+zo&U$0@&80}Nh|2qf|bclPmQ09TS?P0la`gvrh>S?$T1dl(tiN0;O=N~+uua2NeOiM
+zck$sTnn#&HCj0=IoGJEeqR!d0t~{E3w}4#QK)WRt{{T_N&aXMDEJ(J?dH<4Fep>nl
+z<8KCRzk`mt{k~hOe(40&evSvMxj%mhy!OpNwz@=$^6rhLSb%)(9SqSq>Xd(H#@0R0
+z`+#Ao#UcrF{$qbL!^i&3y#qCoQ`{DjokY~*Z!fee_S{>$e)rAi<>z6a({x?SF02~)
+z6*JQFw*7JBj`IAoS8qSi>pfqij=z2W^M9j#{?qjNPgDE<f8hKl^!zu{`A;hlmcP|#
+zhTqHn>}<~73DrY9!v4=`|8BjP{cH(WDYWM6p1C=34E$`%gB0BUxv!m&UBm8o8CIAA
+zm)pm0(;44)9Rxqy(m)7){?FasH%v&5YzkW%%&QF}O?@0{I{wt||EHDyXJwa}m$L^i
+z@c9SNhx3A<{JdXnbpBK2UxQ6P66^5eXWo4w_`T*ogYS&2Kx;L=&`1w#e<Kv`{Gaz+
+Xa}D_GpMN<=Qj1d&{Eyd5d;R+jr5ung
+
+diff --git .vs/slnx.sqlite .vs/slnx.sqlite
+new file mode 100644
+index 0000000000000000000000000000000000000000..bde09c05868b8c8ec76095b71c14094d032aeb7b
+GIT binary patch
+literal 77824
+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
+
